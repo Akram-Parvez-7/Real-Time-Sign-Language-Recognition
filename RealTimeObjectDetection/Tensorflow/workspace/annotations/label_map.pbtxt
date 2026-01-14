@@ -1,0 +1,20 @@
+item { 
+	name:'I love you'
+	id:1
+}
+item { 
+	name:'Live long and prosper'
+	id:2
+}
+item { 
+	name:'No'
+	id:3
+}
+item { 
+	name:'Stop'
+	id:4
+}
+item { 
+	name:'Yes'
+	id:5
+}
